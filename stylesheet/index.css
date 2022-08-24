@@ -717,7 +717,7 @@ input {
   }
 
   .img-outer {
-    margin-right: 10rem;
+    margin-right: 20rem;
   }
 
   .contact-img {
@@ -800,6 +800,9 @@ input {
   html {
     font-size: 30%;
    
+  }
+  .img-outer .img {
+    height: 10%;
   }
 }
 
