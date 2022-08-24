@@ -699,7 +699,7 @@ input {
     justify-content: space-evenly;
 
   }
-
+  
   .blog-img .btn-1 {
     margin-left: 6rem;
   }
@@ -761,7 +761,8 @@ input {
   }
 
   .img-outer {
-    margin-right: 5rem;
+    margin-right: 15rem;
+    
   }
 
   .about-res p {
@@ -793,6 +794,7 @@ input {
   .form-btn {
     margin-left: 2.5rem;
   }
+  
 
 }
 
