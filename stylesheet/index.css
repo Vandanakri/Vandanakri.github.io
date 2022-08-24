@@ -794,18 +794,16 @@ input {
   .form-btn {
     margin-left: 2.5rem;
   }
-  
-
 }
 
 @media (max-width: 450px) {
   html {
-    font-size: 40%;
+    font-size: 30%;
    
   }
-  
-  
 }
+
+
 
 
 
